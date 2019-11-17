@@ -1,17 +1,17 @@
 <dir>
     <title>[COLOR blue]• [/COLOR][COLORaquamarine]Last FM[/COLOR]</title>
-    <link>file://music/lastfm.xml</link>
+    <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/lastfm.xml</link>
 	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
     <title>[COLOR blue]• [/COLOR][COLORblue]Concerts[/COLOR]</title>
-    <link>file://music/concerts.xml</link>
+    <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/concerts.xml</link>
 	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
     <title>[COLOR blue]• [/COLOR][COLORblue]You[/COLOR][COLORlightgrey]Tube[/COLOR]</title>
-    <link>http://elekta.info/enigma2/yt.xml</link>
+    <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/yt.xml</link>
 	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
 </dir>
