@@ -1,0 +1,137 @@
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]Trending[/COLOR] [COLORlightgrey]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/shows/trending</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]Popular[/COLOR] [COLORlightgrey]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/shows/popular</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]H[/COLOR][COLORlightgrey]orror[/COLOR] [COLORlightgrey]TV[/COLOR][COLORlightgrey] Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/hexes-and-ohs/lists/horror-tv/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]Sc[/COLOR][COLORlightgrey]i-[/COLOR][COLORlightgrey]Fi[/COLOR] [COLORlightgrey]TV[/COLOR][COLORlightgrey] Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/sci-fi-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]Co[/COLOR][COLORlightgrey]medy[/COLOR] [COLORlightgrey]TV[/COLOR] [COLORlightgrey]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/tv-comedy/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORblue]• [/COLOR][COLORlightgrey][COLORlightgrey]Real De[/COLOR][COLORlightgrey]al Reality[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/fav-reality-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]Cl[/COLOR][COLORlightgrey]assic[/COLOR] [COLORlightgrey]TV[/COLOR] [COLORlightgrey]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/classic-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORlightgrey]B[/COLOR][COLORlightgrey]inge[/COLOR] [COLORlightgrey]B[/COLOR][COLORlightgrey]ox[/COLOR] [COLORlightgrey]TV[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/binge-box-tv/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORcyan]All Genres[/COLOR] [COLORcyan]›[/COLOR]</title>
+    <link>file://shows/genretv.xml</link>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORblue]All Networks[/COLOR] [COLORblue]›[/COLOR]</title>
+    <link>file://shows/networks.xml</link>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORdodgerblue]A[/COLOR][COLORgainsboro]maz[/COLOR][COLORwhitesmoke]on[/COLOR]</title>
+    <tmdb>network/shows/1024</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+    <fantart></fantart>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORmediumorchid]N[/COLOR][COLORgainsboro]etflix[/COLOR]</title>
+    <tmdb>network/shows/213</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+    <fantart></fantart>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORmediumspringgreen]H[/COLOR][COLORgainsboro]ulu[/COLOR]</title>
+    <tmdb>network/shows/453</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+    <fantart></fantart>
+</dir>
+
+<dir>
+    <title>[COLORblue]Trakt[/COLOR] [COLORblue]›[/COLOR][COLORlightgrey] Lists[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/me/lists/</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORblue]Trakt[/COLOR] [COLORblue]›[/COLOR] [COLORlightgrey]Liked[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/likes/lists</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORblue]Trakt[/COLOR] [COLORblue]›[/COLOR] [COLORlightgrey]Watchlist[/COLOR]</title>
+    <trakt>https://api.trakt.tv/sync/watchlist/shows</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORblue]Trakt[/COLOR] [COLORblue]›[/COLOR][COLORlightgrey] Collections[/COLOR]</title>
+    <trakt>https://api.trakt.tv/sync/collection/shows</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+
+<dir>
+    <title>[COLORaquamarine]TMDB[/COLOR][COLORaquamarine] › [/COLOR][COLORlightgrey]Top Rated[/COLOR]</title>
+    <tmdb>tv/top_rated</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORaquamarine]TMDB[/COLOR][COLORaquamarine] › [/COLOR][COLORlightgrey]Airing Today[/COLOR]</title>
+    <tmdb>tv/today</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORaquamarine]TMDB[/COLOR][COLORaquamarine] › [/COLOR][COLORlightgrey]Animation Shows[/COLOR]</title>
+    <tmdb>genre/shows/16</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLORaquamarine]TMDB[/COLOR][COLORaquamarine] › [/COLOR][COLORlightgrey]Reality Shows[/COLOR]</title>
+    <tmdb>genre/shows/10764</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+	<title>[COLORlightgrey]Search[/COLOR]</title>
+	<tmdb>search</tmdb>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+

@@ -1,0 +1,74 @@
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORgainsboro]Greatest[/COLOR] [COLORlightgrey]B&W[/COLOR] [COLORgainsboro]Movies of All Time[/COLOR][COLORlightgrey][/COLOR][COLORlightgrey][/COLOR]</title>
+    <imdburl>list/ls009847182</imdburl>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORblue]H[/COLOR][COLORblue]orr[/COLOR][COLORblue]or[/COLOR] [COLORgainsboro][/COLOR][COLORgainsboro]Classic Movies[/COLOR]</title>
+    <link>http://elekta.info/elekta/enigma/horrclass.xml</link>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORblue]Sc[/COLOR][COLORblue]i-[/COLOR][COLORblue]Fi[/COLOR] [COLORgainsboro][/COLOR][COLORgainsboro]Classic Movies[/COLOR]</title>
+    <link>http://elekta.info/enigma2/classic-sci-fi.xml</link>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORgainsboro]Japanese[/COLOR] [COLORgainsboro]Monster[/COLOR] [COLORlightgrey]Movies[/COLOR]</title>
+    <link>http://elekta.info/elekta/enigma/Japanese_Monster_Movies.xml</link>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORgainsboro]R[/COLOR][COLORgainsboro]ay[/COLOR] [COLORgainsboro]Harry[/COLOR][COLORgainsboro]housen [COLORgainsboro]Films[/COLOR]</title>
+    <link>http://elekta.info/elekta/enigma/harryhousen.xml</link>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+<dir>
+    <title>[COLOR blue]• [/COLOR][COLORblue]1 Click[COLOR gainsboro] ››[/COLOR] [COLORblue]Classic Movies[/COLOR]</title>
+    <cc_cinema>all</cc_cinema>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>
+
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of ›[/COLOR] [COLORgainsboro]Classic TV Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/classic-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]50's TV[/COLOR][COLORgainsboro] Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/50-s-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]60's TV[/COLOR][COLORgainsboro] Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/60-s-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]70's TV[/COLOR] [COLORgainsboro]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/70-s-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]80's TV[/COLOR] [COLORgainsboro]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/80-s-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>    
+
+<dir>
+    <title>[COLOR lightsteelblue]• [/COLOR][COLORblue]Best of the[/COLOR] [COLORgainsboro]90's TV[/COLOR] [COLORgainsboro]Shows[/COLOR]</title>
+    <trakt>https://api.trakt.tv/users/istoit/lists/90s-tv-shows/items</trakt>
+	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+</dir>    
