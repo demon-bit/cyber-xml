@@ -1,7 +1,6 @@
 <item>
     <title>[COLORviolet][B][COLORmediumturquoise]-=[/COLOR][/B] Anime [B][COLORmediumturquoise]=-[/COLOR][/B][/COLOR]</title>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/ico.png</thumbnail>
-</item>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></item>
 
 <dir>
             <title>[COLORmediumturquoise] Popular [COLORgainsboro]Dubbed Anime[/COLOR]</title>
@@ -11,57 +10,48 @@
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Anime[/COLOR][COLORgainsboro] TV Shows[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/istoit/lists/anime-tv-shows/items</trakt>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Anime[/COLOR] [COLORgainsboro]Movies[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/istoit/lists/anime-movies/items</trakt>
-    <thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Ghibli[/COLOR] [COLORgainsboro]Anime[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/istoit/lists/ghibli/items</trakt>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 		
 <item>
 	<name>[COLORviolet][B][COLORmediumturquoise]-=[/COLOR][/B] Cartoons [B][COLORmediumturquoise]=-[/COLOR][/B][/COLOR]</name>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/ico.png</thumbnail>
-</item>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></item>
 
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]IGN Top 100[/COLOR][COLORgainsboro] Animated Series[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/bigfella/lists/ign-top-100-animated-series/items</trakt>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Adult[/COLOR][COLORgainsboro] Cartoons[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/istoit/lists/adult-cartoons/items</trakt>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Classic[/COLOR][COLORgainsboro] Cartoons[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/istoit/lists/classic-cartoons/items</trakt>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Animated[/COLOR][COLORgainsboro] Movies[/COLOR]</title>
     <tmdb>genre/movies/16</tmdb>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 <dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORaqua][COLORgainsboro]Search[/COLOR][COLOR aqua] ››[/COLOR]</title>
     <wctoon>wcsearch</wctoon>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/searchuse.gif</thumbnail>
-</dir>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
