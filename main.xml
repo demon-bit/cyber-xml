@@ -1,49 +1,49 @@
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]Mo[/COLOR][COLORlightgrey]vies[/COLOR]</title>
 	<link>https://ia801508.us.archive.org/6/items/xmls_20191025/movies.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]TV[/COLOR] [COLORlightgrey]Shows[/COLOR]</title>
 	<link>https://ia801508.us.archive.org/6/items/xmls_20191025/shows.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]Doc[/COLOR][COLORlightgrey]um[COLORlightgrey]ent[/COLOR]ar[COLORlightgrey]ies[/COLOR]</title>
 	<link>https://ia601508.us.archive.org/6/items/xmls_20191025/cyber/docs.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]T[/COLOR][COLORlightgrey]oons[/COLOR] [COLORblue]/[/COLOR] [COLORlightgrey]A[/COLOR][COLORlightgrey]nime[/COLOR]</title>
 	<link>https://ia801508.us.archive.org/6/items/xmls_20191025/toons.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]Co[/COLOR][COLORlightgrey]medy[/COLOR]</title>
 	<link>https://ia801508.us.archive.org/6/items/xmls_20191025/comedy.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]Cl[/COLOR][COLORlightgrey]assics[/COLOR]</title>
 	<link>https://ia801508.us.archive.org/6/items/xmls_20191025/classic.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]M[/COLOR][COLORlightgrey]usic[/COLOR]</title>
 	<link>https://ia801508.us.archive.org/6/items/xmls_20191025/</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
     <title>[COLORblue]• [/COLOR][COLORlightgrey]A[/COLOR][COLORlightgrey]mbient[/COLOR]</title>
     <link>https://ia801508.us.archive.org/6/items/xmls_20191025/ambient.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
 <plugin>
@@ -52,14 +52,14 @@
 		<summary>Open the Settings for this addon.</summary>
 	</meta>
 	<mysettings>0/0</mysettings>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </plugin>
 
 
 <plugin>
 	<name>[COLORblue]• [/COLOR][COLORblue]Pair[/COLOR][COLORlightgrey] / [/COLOR][COLORblue]Authorize[/COLOR]</name>
 	<link>plugin://script.EleKtaPair/?action=RunAddon</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 	<summary>Pair your device with sites such as Openload, plus Authorize Real Debrid/Trakt.</summary>
 </plugin>
 
