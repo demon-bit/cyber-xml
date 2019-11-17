@@ -10,12 +10,6 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
-<dir>
-	<title>[COLORblue]• [/COLOR][COLORlightgrey]Doc[/COLOR][COLORlightgrey]um[COLORlightgrey]ent[/COLOR]ar[COLORlightgrey]ies[/COLOR]</title>
-	<link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/docs.xml</link>
-	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
-</dir>
-
 
 <dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]T[/COLOR][COLORlightgrey]oons[/COLOR] [COLORblue]/[/COLOR] [COLORlightgrey]A[/COLOR][COLORlightgrey]nime[/COLOR]</title>
@@ -64,11 +58,16 @@
 	<summary>Pair your device with sites such as Openload, plus Authorize Real Debrid/Trakt.</summary>
 </plugin>
 
-
-
 <dir>
-	<title>[COLOR blue]• [/COLOR][COLORcyan]Search ›[/COLOR]</title>
-	<tmdb>search</tmdb>
+    	<title>[COLOR red]Search Trakt[/COLOR]</title>
+    	<trakt>search</trakt>
+    	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
+
+  </dir>
+
+ <dir>
+    	<title>[COLOR green]Search TMDB[/COLOR]</title>
+    	<tmdb>search</tmdb>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
