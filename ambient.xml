@@ -1,59 +1,49 @@
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORblue]4K[/COLOR][COLORgainsboro] Relaxation[/COLOR]</title>
 <link>plugin://plugin.video.youtube/channel/UCg72Hd6UZAgPBAUZplnmPMQ/playlists/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORblue]4K[/COLOR][COLORgainsboro] Urban Life[/COLOR]</title>
 <link>plugin://plugin.video.youtube/channel/UCQ-JKqNo_T0yoeDZff1y7Kw/playlists/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]N[/COLOR][COLORgainsboro]ature[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102CqhBpEo13lUVuMMgm2uLXq/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]F[/COLOR][COLORgainsboro]ire[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102B6PftnnRKDZw3YzBxphnSn/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]W[/COLOR][COLORgainsboro]ater[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102Ahll06RACr1et7BWIcwH6l/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]A[/COLOR][COLORgainsboro]tmospheres[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102D7X9td03yCI1FAleYdd0Zw/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <dir>
-	<title>[COLOR blue]• [/COLOR][COLORblue]Musical[/COLOR][COLORgainsboro][/COLOR] [COLORblue][/COLOR][COLORblue]Vibes[/COLOR]</title>
-	<link>http://elekta.info/enigma2/music2.xml</link>
-	<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</dir>
+<title>[COLOR blue]• [/COLOR][COLORblue]Musical[/COLOR][COLORgainsboro][/COLOR] [COLORblue][/COLOR][COLORblue]Vibes[/COLOR]</title>
+<link>http://elekta.info/enigma2/music2.xml</link>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]R[/COLOR][COLORgainsboro]elax[/COLOR] [COLORblue]/[/COLOR] [COLORgainsboro]S[/COLOR][COLORgainsboro]leep[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102D800vOXoHMGv2aRJUv4lzr/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]D[/COLOR][COLORlightgrey]ark [COLORblue]/[/COLOR] [COLORgainsboro]H[/COLOR][COLORgainsboro]allows Eve[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102AbF0HH-LA49TKgj5_HB_S_/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
 
 <plugin>
 <title>[COLOR blue]• [/COLOR][COLORgainsboro]W[/COLOR][COLORlightgrey]inter [COLORblue]/[/COLOR][COLORgainsboro] C[/COLOR][COLORgainsboro]hristmas[/COLOR]</title>
 <link>plugin://plugin.video.youtube/playlist/PLcDmRhDj102D3MLO5hG0sIUrRUy2Z7Mkf/</link>
-<thumbnail>special://home/addons/plugin.video.enigma/images/en1.gif</thumbnail>
-</plugin>
+<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></plugin>
