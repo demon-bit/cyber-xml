@@ -3,11 +3,6 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></item>
 
 <dir>
-            <title>[COLORmediumturquoise] Popular [COLORgainsboro]Dubbed Anime[/COLOR]</title>
-            <toonmania>category/GetPopularDubbed</toonmania>
-        </dir>
-
-<dir>
     <title>[COLOR mediumturquoise] [/COLOR][COLORmediumturquoise]Anime[/COLOR][COLORgainsboro] TV Shows[/COLOR]</title>
     <trakt>https://api.trakt.tv/users/istoit/lists/anime-tv-shows/items</trakt>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail></dir>
