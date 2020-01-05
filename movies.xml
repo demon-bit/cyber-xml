@@ -31,19 +31,13 @@
 
 <dir>
     <title>[COLORblue]• [/COLOR][COLORlightgrey]M[COLORlightgrey]ovies [COLORlightgrey]b[/COLOR]y[/COLOR] [COLORlightgrey]Year[/COLOR]</title>
-    <link>file://movies/movieyears.xml</link>
+    <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/movie-years.xml</link>
 	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
 </dir>
 
 <dir>
     <title>[COLORblue]• [/COLOR][COLORlightgrey]G[/COLOR][COLORlightgrey]enres[/COLOR]</title>
-    <link>file://movies/genres.xml</link>
-	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
-</dir>
-
-<dir>
-    <title>[COLORblue]• [/COLOR][COLORlightgrey]B[/COLOR][COLORlightgrey]est Of[/COLOR] [COLORblue]=>>[/COLOR]</title>
-    <link>http://elekta.info/enigma2/best.xml</link>
+    <link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/genre_movies.xml</link>
 	<thumbnail>https://ia601508.us.archive.org/6/items/xmls_20191025/icon/elliot.gif</thumbnail>
 </dir>
 
