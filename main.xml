@@ -36,6 +36,12 @@
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
 </dir>
 
+<dir>
+    <title>[COLORblue]• [/COLOR][COLORlightgrey]A[/COLOR][COLORyellow]Youtube[/COLOR]</title>
+    <link>https://raw.githubusercontent.com/demon-bit/xml-master/master/youtube/ytmainmy.txt</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
+</dir>
+
 <plugin>
 	<title>[COLORblue]• [/COLOR][COLORblue]Settings[/COLOR]</title>
 	<meta>
