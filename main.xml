@@ -5,6 +5,12 @@
 </dir>
 
 <dir>
+	<title>test</title>
+	<link>https://raw.githubusercontent.com/demon-bit/xml-master/master/lists/test.xml
+</link>
+	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
+</dir>
+<dir>
 	<title>[COLORblue]• [/COLOR][COLORlightgrey]TV[/COLOR] [COLORlightgrey]Shows[/COLOR]</title>
 	<link>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/shows.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/demon-bit/cyber-xml/master/icon/elliot.gif</thumbnail>
